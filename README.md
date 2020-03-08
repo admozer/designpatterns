@@ -1,1 +1,0 @@
-# yaz-l-mtasar-mkal-plar-
