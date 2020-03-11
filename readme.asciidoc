@@ -56,8 +56,10 @@ https://github.com/asciidoctor
 
 * resim, ( Block, Inline, Inline image with positioning role, Embedded)
 
-*** Block: image:pictures/sea.jpg[Sunset]
+*** Block: 
 
+image:pictures/sea.jpg[Sunset]
+       
 *** Inline: image:pictures/sea.jpg[title="Pause"] Durdurmak istersen tıkla
 
 *** Inline image with positioning role :image:pictures/sea.jpg[Gun batımı,150,150,role="right"] Denize karşı!
