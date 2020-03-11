@@ -68,15 +68,16 @@ image:pictures/sea.jpg[Sunset]
 * Video (Blok, Embedded Youtube video)
 
 *** Blok : 
+
 video::video/catbed.mp4[width=640, start=60, end=140, options=autoplay]
 
 
-*** Embedded Youtube video : video::JPfuYpvMojk[youtube]
+*** Embedded Youtube video : 
+
+video::JPfuYpvMojk[youtube]
 
 
-* C++ kaynak kod,  (Code block with title and syntax highlighting, Inline)
-
-
+*** C++ kaynak kod,  (Code block with title and syntax highlighting, Inline)
 
 .app.cpp Code block with title and syntax highlighting
 [source,cpp]
