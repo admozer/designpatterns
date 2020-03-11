@@ -146,4 +146,4 @@ echo "Hello World"
 
 * Ayrıca bir döküman üzerindeki bir başlığa link vermeniz ( cross-ref eklemeniz: Inline anchors, Internal cross references)
 
-<<documans.docx#,Dikkat>> daha fazla bilgi için tıklayınız
+<<documans.docx#bookmark-b,Dikkat>> daha fazla bilgi için tıklayınız
