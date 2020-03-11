@@ -95,7 +95,7 @@ int main()
 *** Internal cross references:  <<bookmark-b>> nasıl yazıldığını öğrenmek için kullanılabilir.
 
 
-.app.cpp Code block with title and syntax highlighting Inline
+.app.cpp Code block with title and syntax highlighting
 [source,cpp]
 ----
 #include <iostream>
@@ -110,10 +110,13 @@ int main()
 
 <1> Degisken
 <2> Cikti
+
+.Inline
+C++ dili `OOP` bir dil.
  
 
 .app.bash linux bash script kod
-[source,.bash]
+[source,bash]
 ---
 #!/bin/bash
 echo "Hello World"
