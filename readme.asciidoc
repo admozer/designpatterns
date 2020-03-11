@@ -11,20 +11,20 @@ Eric Gamma, Richard Helm, Ralph Johnson ve John Vlissides 1995’te “Design Pa
 * Numarali ve numarasiz maddeler icin linux ile ilgili örnek metinler ekleyiniz.
 
 
-. En sık kullanılan kalıplar
+En sık kullanılan kalıplar
 
-** Creational.
-** Structural.
-** Behavioral.
+* Creational.
+* Structural.
+* Behavioral.
 
 
 
-. Creational Kalıplar
+Creational Kalıplar
 
-.. Factory Method
-.. Singleton
-.. Abstract Factory
-.. Builder
+. Factory Method
+. Singleton
+. Abstract Factory
+. Builder
 
 
 * Admonition ile 3 farklı uyarı ekleyiniz.
@@ -47,13 +47,12 @@ https://github.com/asciidoctor
 
 *** with spaces and special characters: link:https://examples.org/?q=%5Ba%20b%5D[special Character]
 
-*** relative: link:github.com[Docs]
+*** relative: link:wiki[Wiki]
 
 *** Link with attributes: https://examples.org["Google, Yahoo, İnstagram",role=teal]
  
-*** Inline anchors: [#bookmark-b]#satır içi ankrajlar için kullanılabilir .#
+*** Inline anchors: [[bookmark-b]]#satır içi ankrajlar için kullanılabilir .#
 
-*** Internal cross references:  <<paragraphs>> nasıl yazıldığını öğrenmek için kullanılabilir.
 
 * resim, ( Block, Inline, Inline image with positioning role, Embedded)
 
@@ -89,6 +88,8 @@ int main()
    cout <<"Girilen x degeri: " << x << endl;
 }
 ----
+
+*** Internal cross references:  <<bookmark-b>> nasıl yazıldığını öğrenmek için kullanılabilir.
 
 
 .app.cpp Code block with title and syntax highlighting Inline
