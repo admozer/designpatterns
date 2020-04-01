@@ -65,6 +65,7 @@ Araba o-- Kapı
 
 --
 
+image:aggregation.png[Aggregation,role="right"]
 
 
 == Composition (Bağımlı İyelik)
@@ -83,6 +84,7 @@ Ev *-- Koridor
 
 --
 
+image:composition.png[Composition,role="right"]
 
 
 == Generalization (Genelleme)
@@ -126,7 +128,7 @@ Hayvan <|-- At
 
 --
 
-
+image:generalization.png[Generalization,role="right"]
 
 
 == Realization (Gerçekleme)
@@ -144,7 +146,7 @@ Interface Nesne
 Nesne <|-- Class
 --
 
-
+image:realization.png[Realization,role="right"]
 
 
 
@@ -160,6 +162,7 @@ left to right direction
 
 VeritabanıBase ..> VeriTabanı  : <<instantiate(Örneklendirme)>>
 
+image:dependency.png[Dependency,role="right"]
 
 --
 
@@ -177,6 +180,7 @@ left to right direction
 UserController ..> UserService  : <<user>>
 --
 
+image:use.png[Use,role="right"]
 
 == Toplu olarak Birleştirme
 
@@ -242,3 +246,5 @@ Canlı -- Insan
 abstract class Canlı
 
 Canlı <|.. Hayvan
+
+image:toplugösterim.png[toplugösterim,role="right"]
