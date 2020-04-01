@@ -26,6 +26,7 @@ Cocuk -- Kadın
 Kadın -- Insan
 --
 
+image:association.png[Association,role="right"]
 
  
 
