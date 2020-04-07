@@ -88,3 +88,5 @@ DataBase <|-- Oracle
 DatabaseFactory <|-- Factory
 
 --
+
+image:factory.png[Factory,role="right"]
