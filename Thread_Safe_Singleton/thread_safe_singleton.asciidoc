@@ -63,3 +63,6 @@ class CustomerManager << (S,#FF7700) Singleton >> {
 CustomerManager --> CustomerManager
 
 --
+
+image:singleton_thread_safe.png[Singleton,role="right"]
+
