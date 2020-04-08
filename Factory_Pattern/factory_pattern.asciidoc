@@ -84,6 +84,7 @@ class Factory <Database> {
 DataBase <|-- MsSQL
 DataBase <|-- MySQL
 DataBase <|-- Oracle
+DataBase <|.. Factory
 
 DatabaseFactory <|-- Factory
 
