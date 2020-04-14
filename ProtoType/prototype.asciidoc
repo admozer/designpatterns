@@ -49,6 +49,8 @@ SirketHakkında <|.. Sirket
 
 --
 
+image:prototip.png[Prototip,role="right"]
+
 
 
 
