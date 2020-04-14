@@ -36,6 +36,7 @@ class ObjectPool {
 ObjectPool o-- PooledObject
 --
 
+image:object_pool.png[Object_Pool,role="right"]
 
 
 
