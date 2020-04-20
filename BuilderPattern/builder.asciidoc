@@ -99,3 +99,5 @@ MonsterAbraA5_V15_4 --> Computer
 MonsterAbraA7_V11_1 --> Computer
 
 --
+
+image:builder_design.png[Builder,role="right"]
